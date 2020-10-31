@@ -2,5 +2,5 @@
 [![twitter](https://img.shields.io/badge/Twitter-tomofummy-blue)](https://twitter.com/tomofummy)
 [![Qiita](https://img.shields.io/badge/Qiita-chibato-brightgreen)](https://qiita.com/chibato)
 
-[![java gold](https://images.youracclaim.com/size/110x110/images/0fd4576c-8adc-4cb8-8549-b5536957f4fc/Oracle-Certification-badge_OC-Professional600X600.png)](https://www.youracclaim.com/badges/4e125433-65c2-47ce-b7ea-fc2fd6f920d4)
+[![java gold](https://images.youracclaim.com/size/110x110/images/2249f1d3-a98c-4afb-92ea-1da111c0a57a/Japan_Gold_Java_SE_8_Programmer_Badge__1_.png)](https://www.youracclaim.com/badges/4e125433-65c2-47ce-b7ea-fc2fd6f920d4)
 
