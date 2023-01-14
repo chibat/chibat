@@ -1,5 +1,6 @@
 Hello there 👋
 
+![stats](https://github-readme-stats.vercel.app/api?username=chibat&show_icons=true)
 [![java gold](https://images.youracclaim.com/size/110x110/images/2249f1d3-a98c-4afb-92ea-1da111c0a57a/Japan_Gold_Java_SE_8_Programmer_Badge__1_.png)](https://www.youracclaim.com/badges/4e125433-65c2-47ce-b7ea-fc2fd6f920d4)
 
 <!--
