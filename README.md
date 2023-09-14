@@ -12,4 +12,5 @@ Hello there 👋
 ### Contributions
 * [deno](https://github.com/denoland/deno/pulls?q=is%3Apr+author%3Achibat+is%3Aclosed)
 * [openapi-generator](https://github.com/OpenAPITools/openapi-generator/pulls?q=is%3Apr+is%3Aclosed+author%3Achibat)
+* [fresh](https://github.com/denoland/fresh/pulls?q=is%3Apr+author%3Achibat+is%3Aclosed)
 * [doma](https://github.com/domaframework/doma/pulls?q=is%3Apr+is%3Aclosed+author%3Achibat)
